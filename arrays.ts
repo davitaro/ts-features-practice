@@ -7,7 +7,7 @@ const carsByMake = [["f150", "silverado", "camry"]];
 const carzByMake: string[][] = [];
 
 //help with inference
-const car = carMakers[0];
+const car1 = carMakers[0];
 const myLastCar = carMakers.pop();
 
 //prevent incompatible values

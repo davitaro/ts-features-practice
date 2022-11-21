@@ -17,8 +17,8 @@ let colors: string[] = ["red", "green", "blue"];
 let myNumbers: number[] = [1, 2, 3, 4];
 
 //class
-class Car {}
-let myCar: Car = new Car();
+class ACar {}
+let myCar: ACar = new ACar();
 
 //object literal
 let point: { x: number; y: number } = {
